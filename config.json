@@ -1,5 +1,5 @@
 {
-    "sitename": "Sitenizin İsmi",
+    "sitename": "Badir_TV & Tx_26",
     "tanitim": [
         { "baslik": "Senin alanın, Senin tarzın.", "content": "Bilgi güçtür. İlgi duydunuz konuları burada bulabilir veya fikirlerinizi ve ilgilerinizi insanlar ile paylaşmak ve duyurmak için paylaşımlar yapabilirsiniz!" },
         { "baslik": "Bilgi güçtür. Ne kadar kendine bilgi katarsan o kadar güçlüsündür.", "content": "Bize katıl, bilgine bilgi, gücüne güç kat!" },
@@ -11,7 +11,7 @@
         "third": "Fikirlerin Ne Olursa Olsun, Burada Hepsine Yer Var!"
     },
     "html": false,
-    "admin": "450732101608931328",
+    "admin": "355662608730292224",
     "personal": false,
     "comments": true
 }
